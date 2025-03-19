@@ -24,3 +24,13 @@ O arquivo `.gitignore` é utilizado para informar ao Git quais arquivos ou diret
     ```gitignore
     *.log     # Ignora todos os arquivos .log
     *.txt     # Ignora todos os arquivos .txt
+
+- Usar o ponto de interrogação ```?```: O ponto de interrogação ```?``` substitui um único caractere:
+
+    ```gitignore
+    file?.txt  # Ignora arquivos como file1.txt, fileA.txt, etc.
+
+- Usar colchetes ```[]```: Colchetes podem ser usados para definir uma correspondência para um conjunto de caracteres:
+
+    ```gitignore
+    file[123].txt  # Ignora file1.txt, file2.txt e file3.txt
