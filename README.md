@@ -25,6 +25,7 @@ O **Git-Hub** é uma ferramenta essencial para administrar o desenvolvimento de 
 
 <div align=center>
 
+| Conteúdo | |
 | --- | --- |
 | git (essencial) | Projetos |
 | Repositórios | Pull-Requests |
