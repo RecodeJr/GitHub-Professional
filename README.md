@@ -25,7 +25,6 @@ O **Git-Hub** é uma ferramenta essencial para administrar o desenvolvimento de 
 
 <div align=center>
 
-|  |  |
 | --- | --- |
 | git (essencial) | Projetos |
 | Repositórios | Pull-Requests |
@@ -45,3 +44,4 @@ O **Git-Hub** é uma ferramenta essencial para administrar o desenvolvimento de 
 > Atualmente cursa o *Bacharelado em Ciências Exatas e Tecnológicas* e é Diretor de Vendas na **RecodeJr**
 > [![graph](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&theme=chartreuse-dark&layout=compact)](https://github.com/ThiagoSousa81)
 <hr>
+
