@@ -17,6 +17,10 @@
 
 Este curso tem a finalidade principal de auxiliar os membros da  **Diretoria de Gestão de Projetos**, demais membros da **[Recode Jr](https://github.com/RecodeJr/)** e toda a comunidade acadêmcia, a fim de aprimorar os conhecimentos sobre o uso do Git-Hub para melhorar o trabalho em equipe.
 
+## Participantes
+
+### [Veja a lista completa aqui](/Membros/README.md)
+
 ## Motivação
 
 O **Git-Hub** é uma ferramenta essencial para administrar o desenvolvimento de projetos em equipe e compartilhamento do código-fonte. Atualmente empresas de grande porte utilizam da plataforma para melhorar o trabalho dos desenvolvedores dividindo o trabalho em partes e automatizando tarefas rotineiras.
