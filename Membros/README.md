@@ -39,18 +39,18 @@ Um aplicativo de computador onde você pode construir seu próprio algoritmo de 
 
 <!--Use o modelo abaixo para seu Pull-Request-->
 
-<!--
+
 <tr>
 <td>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=chartreuse-dark&locale=pt-br)](LINK-DO-SEU-GITHUB)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSodre02&show_icons=true&theme=chartreuse-dark&locale=pt-br)](https://github.com/GabrielSodre02)
 
 </td>
 <td>
 
-### SEU NOME
+### Gabriel Sodré
 
-SUA DESCRIÇÃO AQUI
+Estudante e membro da Recode
 
 </td>
 </tr>
@@ -65,9 +65,8 @@ DESCRIÇÃO DO PROJETO
 </td>
 <td>
 
-[![NOME DO PROJETO](https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=REPOSITORIO&theme=chartreuse-dark&show_owner=true)](LINK-DO-REPOSITORIO)
+[![NOME DO PROJETO](https://github-readme-stats.vercel.app/api/pin/?username=GabrielSodre02&repo=REPOSITORIO&theme=chartreuse-dark&show_owner=true)](https://github.com/GabrielSodre02)
 </td>
 </tr>
--->
 
 </table>
