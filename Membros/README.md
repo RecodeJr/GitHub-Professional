@@ -39,6 +39,7 @@ Um aplicativo de computador onde você pode construir seu próprio algoritmo de 
 
 <!--Use o modelo abaixo para seu Pull-Request-->
 
+
 <tr>
 <td>
 
@@ -91,14 +92,43 @@ Estudante e membro da Recode
 <tr>
 <td>
 
-### NOME DO PROJETO
+### Capacitação de GitHub
 
-DESCRIÇÃO DO PROJETO
+Desvendando os misterios do GitHub.
 
 </td>
 <td>
 
 [![NOME DO PROJETO](https://github-readme-stats.vercel.app/api/pin/?username=GabrielSodre02&repo=REPOSITORIO&theme=chartreuse-dark&show_owner=true)](https://github.com/GabrielSodre02)
+</td>
+</tr>
+  
+<tr>
+<td>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewtonJr0&show_icons=true&theme=chartreuse-dark&locale=pt-br)](https://github.com/NewtonJr0)
+
+</td>
+<td>
+
+### Newton Luiz
+
+Estudante de Engenharia de Computação.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### Capacitação de GitHub
+
+Desvendando os misterios do GitHub.
+
+</td>
+<td>
+
+[![NOME DO PROJETO](https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=REPOSITORIO&theme=chartreuse-dark&show_owner=true)](LINK-DO-REPOSITORIO)
 </td>
 </tr>
 
