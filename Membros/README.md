@@ -39,7 +39,40 @@ Um aplicativo de computador onde você pode construir seu próprio algoritmo de 
 
 <!--Use o modelo abaixo para seu Pull-Request-->
 
+<tr>
+<td>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janecar&show_icons=true&theme=chartreuse-dark&locale=pt-br)](https://github.com/Janecar)
+
+</td>
+<td>
+
+
+### Janine
+
+Membro da Recode.Jr
+
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### CODE-UP
+
+CURSO LÓGICA DE PROGRAMAÇÃO
+
+</td>
+<td>
+
+
+[![NOME DO PROJETO](https://github-readme-stats.vercel.app/api/pin/?username=Janecar&repo=po-master&theme=chartreuse-dark&show_owner=true)](LINK-DO-REPOSITORIO)
+
+</td>
+</tr>
+
+  
 <tr>
 <td>
 
