@@ -47,9 +47,11 @@ Um aplicativo de computador onde você pode construir seu próprio algoritmo de 
 </td>
 <td>
 
+
 ### Janine
 
 Membro da Recode.Jr
+
 
 </td>
 </tr>
@@ -64,7 +66,39 @@ CURSO LÓGICA DE PROGRAMAÇÃO
 </td>
 <td>
 
+
 [![NOME DO PROJETO](https://github-readme-stats.vercel.app/api/pin/?username=Janecar&repo=po-master&theme=chartreuse-dark&show_owner=true)](LINK-DO-REPOSITORIO)
+
+</td>
+</tr>
+
+  
+<tr>
+<td>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSodre02&show_icons=true&theme=chartreuse-dark&locale=pt-br)](https://github.com/GabrielSodre02)
+
+</td>
+<td>
+
+### Gabriel Sodré
+
+Estudante e membro da Recode
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### NOME DO PROJETO
+
+DESCRIÇÃO DO PROJETO
+
+</td>
+<td>
+
+[![NOME DO PROJETO](https://github-readme-stats.vercel.app/api/pin/?username=GabrielSodre02&repo=REPOSITORIO&theme=chartreuse-dark&show_owner=true)](https://github.com/GabrielSodre02)
 </td>
 </tr>
 
