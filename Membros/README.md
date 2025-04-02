@@ -48,7 +48,7 @@ Um aplicativo de computador onde você pode construir seu próprio algoritmo de 
 </td>
 <td>
 
-### Newton Pina
+### Newton Luiz
 
 Estudante de Engenharia de Computação.
 
@@ -58,9 +58,9 @@ Estudante de Engenharia de Computação.
 <tr>
 <td>
 
-### NOME DO PROJETO
+### Capacitação de GitHub
 
-DESCRIÇÃO DO PROJETO
+Desvendando os misterios do GitHub.
 
 </td>
 <td>
