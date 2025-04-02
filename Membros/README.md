@@ -39,11 +39,11 @@ Um aplicativo de computador onde você pode construir seu próprio algoritmo de 
 
 <!--Use o modelo abaixo para seu Pull-Request-->
 
-<!--
+
 <tr>
 <td>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=chartreuse-dark&locale=pt-br)](LINK-DO-SEU-GITHUB)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewtonJr0&show_icons=true&theme=chartreuse-dark&locale=pt-br)](https://github.com/NewtonJr0)
 
 </td>
 <td>
