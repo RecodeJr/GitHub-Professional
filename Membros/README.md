@@ -48,9 +48,9 @@ Um aplicativo de computador onde você pode construir seu próprio algoritmo de 
 </td>
 <td>
 
-### SEU NOME
+### Newton Pina
 
-SUA DESCRIÇÃO AQUI
+Estudante de Engenharia de Computação.
 
 </td>
 </tr>
